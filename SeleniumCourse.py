@@ -79,6 +79,4 @@ ptr_fun = Example_Buttons_CLicks
 
 ptr_fun( url_button_ex )
 
-# Example_Buttons_CLicks( url_button_ex )
-# Example_SendingKeys_AND_CCS_Selector( url_Example_SendingKeys_AND_CCS_Selector )
 
